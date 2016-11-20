@@ -1,15 +1,24 @@
 {
 
-	"unit 1": {
-	    "evironmental impact of logging": {
-	        "aquatic": "adj., living in the water"
+	"unit 01": [
+	    {
+	    	"title" : "evironmental impacts of logging",
+	    	"words": [
+	    		{
+	    			"aquatic": "adj., living in the water"
+	    		}
+	    	]
+	        
 	    },
-	    "bird migration": {
-	        "aspect": "n. a part or feature"
+	    {
+	    	"title" : "bird migration",
+	    	"words": [
+	    		{
+	    			 "aspect": "n. a part or feature"
+	    		}
+	    	]
+	        
 	    }
 	    
-	},
-	"unit 2": {
-
-	}
+	]
 }
